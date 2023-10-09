@@ -1,0 +1,11 @@
+build/*
+public/*
+dist/*
+assets/**/*
+packages/core/dist
+*.d.ts
+.eslintrc.js
+.jest.config.js
+rollup.config.js
+/website/dist
+coverage
